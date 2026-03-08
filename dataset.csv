@@ -1,0 +1,7 @@
+cpu,login_attempts,traffic,attack
+20,1,200,Normal
+80,10,900,DDoS
+50,5,400,Normal
+90,15,1000,Brute Force
+30,2,250,Normal
+85,12,850,DDoS
